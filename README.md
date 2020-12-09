@@ -1,3 +1,10 @@
-The data folder includes the original data, data after preprocessing, train and test datasets used for model training.
+# Wine Rating Prediction in AWS 
 
-scripts folder includes codes for EDA, preprocessing and feature engineering.
+Folders: 
+data: includes the original data, data after preprocessing, train and test datasets used for model training.
+scripts: includes codes for EDA, preprocessing and feature engineering.
+
+Files:
+Report notebook is the detail report for the whole project.
+
+
